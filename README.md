@@ -7,7 +7,7 @@ This repository versions the complete working scaffold as an archive because it 
 - `Yang_Assignment6_Adoption_Agent.zip`: full course scaffold and specialist, preserved initial weakness, revised primary and two contrast cases, JSON responses, prompt packets and actual validation logs.
 - `EmergingTech_Lab6_Source_History.bundle`: local source branch `assignment-6-adoption`; tested candidate `2082e2a71da0c64e35d44569a4f8d874d40d3311`. Local commits are authored by Codex and are not misrepresented as the student's personal terminal actions.
 - `Original_Course_Scaffold.zip`: original upload, unchanged.
-- Final submission documents and Agent Record are added in the following commit and supplied in the final deliverables archive.
+- Final submission documents, Agent Record, version record and the complete deliverables ZIP are included. Review the AI-assisted judgment and reflection before submission.
 
 ## Results
 
